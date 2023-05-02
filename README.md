@@ -1,4 +1,5 @@
 # Is it A Meme or Is it Motivational?
+# Deploying an image classifier using Binder
 
  This part of an exercise from fast.ai's second lesson in which we've trained a deep learning model to classify images as either a motivational quote or a meme.
  This repo allows us to deploy the model using [Binder](https://mybinder.org). 
